@@ -1,6 +1,6 @@
 FROM python:3.6-buster
 
-LABEL maintainer="Sebastian Ramirez <tiangolo@gmail.com>"
+LABEL maintainer="jiy <hyhkjiy@163.com>"
 
 COPY install-nginx-debian.sh /
 
